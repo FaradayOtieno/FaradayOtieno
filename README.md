@@ -2,7 +2,7 @@
 
 **Statistician | Data Science | Machine Learning | AI | Independent Researcher**
 
-I am a Statistician and independent researcher working across statistics, data science, machine learning, artificial intelligence, and interdisciplinary research.
+A Statistician and independent researcher working across statistics, data science, machine learning, artificial intelligence, and interdisciplinary research.
 
 My work combines statistical and computational methods to investigate real-world problems across economic, social, technological, agricultural, health, and development contexts. I am particularly interested in predictive modelling, data-driven research, machine learning, and applying quantitative methods to complex societal problems.
 
