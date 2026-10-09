@@ -38,10 +38,6 @@ Machine learning and clustering approaches for identifying crop suitability from
 
 NLP-based analysis of writing complexity and cognitive load using *Dante's Inferno* as a case study.
 
-### Mobile Money & Financial Inclusion
-
-Quantitative analysis of mobile money and financial inclusion using statistical and data science methods.
-
 ## Research & Writing
 
 I also contribute to research and technical writing, with interests spanning economic research, development, technology, AI, sustainability, and interdisciplinary applications of statistics.
